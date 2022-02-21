@@ -1,0 +1,4 @@
+[submodule "my-portfolio/public"]
+	path = my-portfolio/public
+	url = https://github.com/nahid-ete2019/prod-profile.git
+	branch = main

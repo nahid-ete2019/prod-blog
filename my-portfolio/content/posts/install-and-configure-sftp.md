@@ -31,6 +31,7 @@ passwd rose
 pass: GyQkFRVNr3
 
 # mkdir -p /var/www/code
+# mkdir -p /var/www/code
 
 # ll -lsd /var/www/code
 # chown root:root  /var/www
