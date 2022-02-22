@@ -1,4 +1,4 @@
-baseURL = "https://nahid-ete2019.github.io/prod-profile/"
+baseURL = "https://mrnahid.xyz"
 title = "Nahid Hasan"
 theme = "hugo-coder"
 languageCode = "en"
@@ -17,7 +17,7 @@ author = "Md. Nahid Hasan"
 description = "Nahid Hasan's personal website"
 keywords = "blog,developer,personal"
 info = ["DevOps Engineer", "SysAdmin"]
-avatarURL = "prod-profile/images/avatar.jpg"
+avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
